@@ -1,6 +1,6 @@
 # FormFlow
 FormFlow: A powerful and intuitive form creation platform that allows users to create interactive forms and surveys with ease. Built with modern web technologies to provide a seamless form-building experience.
-![alt text]((https://github.com/TeenTornado/formflow/blob/main/public/FormBuilder.png))
+![alt text](https://raw.githubusercontent.com/TeenTornado/formflow/main/public/FormBuilder.png)
 
 🌟Features
 User Authentication
